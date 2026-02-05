@@ -182,11 +182,3 @@ print("adjusted r squared value :", adjusted_r2)
 ✔ R² and Adjusted R² evaluation
 
 ---
-
-## 📝 Notes to My Future Self
-
-* This is my **first Linear Regression implementation**
-* Focus is on understanding the **process**, not optimization
-* Re-reading this README + notebook is enough to revise Linear Regression basics
-
----
